@@ -38,7 +38,7 @@ Karnataka</p>
       <hr />
       <mdb-row class="d-flex align-items-center">
         <mdb-col md="8" lg="8">
-          <p style="color: #ffff" class="text-center text-md-left grey-text">&copy; 2021 Copyright: Business Solutions</p>
+          <p style="color: #ffff" class="text-center text-md-left grey-text">&copy; 2021 Copyright: Bizzcon Solutions</p>
         </mdb-col>
         <mdb-col md="4" lg="4" class="ml-lg-0">
           <div class="text-center text-md-right">
